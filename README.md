@@ -1,6 +1,7 @@
 # SACADA_Database
 Database for SARS-CoV-2 and coronaviruses inactivation kinetics on surfaces and in liquid media
 
+The aim of this repository is to present the SARS-CoV-2 and coronaviruses inactivation kinetics on surfaces and in suspensions: review and database
 
 ## Citation
 
