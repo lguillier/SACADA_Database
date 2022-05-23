@@ -14,6 +14,6 @@ This research was funded by the French Research National Agency (ANR) in the fra
 
 ## Citation
 
-[NDM Luong, E Chaix, L Guillier. Database for SARS-CoV-2 and coronaviruses inactivation kinetics on surfaces and in liquid media. https://github.com/lguillier/SACADA_Database. 	
+NDM Luong, E Chaix, L Guillier. Database for SARS-CoV-2 and coronaviruses inactivation kinetics on surfaces and in liquid media. https://github.com/lguillier/SACADA_Database. [	https::10.5281/zenodo.6572948	 ](https://doi.org/10.5281/zenodo.6572948)
 
 
