@@ -1,4 +1,6 @@
 # SACADA_Database
+[![DOI](https://zenodo.org/badge/490197557.svg)](https://zenodo.org/badge/latestdoi/490197557) 
+
 Database for SARS-CoV-2 and coronaviruses inactivation kinetics on surfaces and in liquid media
 
 The aim of this repository is to present a database of SARS-CoV-2 and coronaviruses inactivation kinetics on surfaces and in suspensions.
